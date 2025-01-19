@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Link Saver</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1 id="animated-title">Link Vault</h1>
+      <div class="search-container">
+        <input id="search-bar" type="text" placeholder="Search links...">
+        <button id="search-btn">
+          <i class="fas fa-search"></i>
+        </button>
+      </div>
+      <div class="themetoggle">
+      
+        <button id="theme-toggle" class="theme-toggle">
+        <i class="fas fa-moon"></i>
+        </button>
+      </div>
+      
+    </header>
+
+    <div class="heading">
+      <h3>
+        Connect to VPN Before Opening Any Link..! 
+      </h3>
+    </div>
+    <br>
+    <hr>
+    <br>
+    <main id="links-container" class="links-container">
+      <!-- Link cards will be dynamically inserted here -->
+    </main>
+
+    <button id="add-btn" class="add-btn">
+      <i class="fas fa-plus"></i>
+    </button>
+  </div>
+
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <h2>Add New Link</h2>
+      <input id="image-url" type="text" placeholder="Image URL (optional)">
+      <input id="title" type="text" placeholder="Title of the Link">
+      <input id="link" type="text" placeholder="Link URL">
+      <div class="modal-actions">
+        <button id="save-btn">Save</button>
+        <button id="cancel-btn">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
