@@ -37,7 +37,7 @@ let links = [
     linkURL: "https://sxyprn.com/post/608c480270eb3.html?sk=Blake-Blossom&so=0&ss=views"
   },
   {
-    imageURL: "https://hctn.nv7s.com/contents/videos_screenshots/8851000/8851935/preview.jpg",
+    imageURL: "https://img.tnaflix.com/a16:8q80w500r/196/10/94/10943205/thumbs/5.jpg",
     title: "Petite teen Melody Marks loves to sleep with her stepbrother. She holds his cocks and sleeps better!",
     linkURL: "https://www.eporner.com/video-8L4YjhaiyXb/01371/"
   },
@@ -207,7 +207,7 @@ let links = [
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=64664dbb2e940"
   },
   {
-    imageURL: "https://www.pornhub.org/view_video.php?viewkey=ph634eeb63732cc",
+    imageURL: "https://ei.phncdn.com/videos/202210/18/417794691/original/(m=q40J_0XbeaSaaTbaAaaaa)(mh=711YihjnaUx5CEVK)0.jpg",
     title: "FAMILYXXX - Stepsis Gabbie Carter Fucks Bro While Her Friend Films",
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=ph634eeb63732cc"
   },
@@ -222,7 +222,7 @@ let links = [
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=ph5ddf2ce189a7d"
   },
   {
-    imageURL: "https://www.pornhub.org/view_video.php?viewkey=ph5df913d789e7a",
+    imageURL: "https://cdn-img2.16honeys.com/videos/201912/17/269365391/original/(m=q65PY-UbeaAaGwObaaaa)(mh=VUl7kgGxGUjihO75)0.jpg",
     title: "New Sensations - Gabbie Carter \"Daddy My Pussy is So Much Tighter Than Mom's\" To enable screen reader",
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=ph5df913d789e7a"
   },
@@ -237,7 +237,7 @@ let links = [
     linkURL: "https://sxyprn.com/post/666a8ff58e59a.html?sk=Jill-Taylor&so=0&ss=latest"
   },
   {
-    imageURL: "https://cdn.hog.tv/thumbs/94/20857222/37-main.jpg",
+    imageURL: "https://img.pvvstream.pro/preview/EezVg5PJNQQa9NCrDh8AJg/-196033546_456239568/450/i.mycdn.me/getVideoPreview?id=6232821664334&idx=0&type=39&tkn=XdQvkH3xvpcbwBWQ76cc_RtffQk&fn=vid_x",
     title: "Fiona Frost and Jill Taylor take turns pounding Josh Has A Serious Case Of Blue Balls",
     linkURL: "https://sxyprn.com/post/659a55a1ec026.html?sk=Jill-Taylor&so=30&ss=latest"
   },
@@ -312,7 +312,7 @@ let links = [
     linkURL: "https://www.eporner.com/video-7EL8qcBBraU/vixen-lets-ride/"
   },
   {
-    imageURL: "https://st.pstictic.com/contents/videos_screenshots/297000/297284/preview.jpg",
+    imageURL: "https://imggen.eporner.com/9224265/1920/1080/7.jpg",
     title: "Gorgeous Blonde Serves Hot Sex For Breakfast - Melody Marks",
     linkURL: "https://www.eporner.com/video-XWhgizbbkYY/gorgeous-blonde-serves-hot-sex-for-breakfast/"
   },
@@ -527,12 +527,12 @@ let links = [
     linkURL: "https://www.eporner.com/video-hqq7jHRaura/alison-tyler-stepmom-hot-porn-story-with-alison-tyler/"
   },
   {
-    imageURL: "https://www.tabooporn.tv/contents/videos_screenshots/12000/12640/preview.mp4.jpg",
+    imageURL: "https://tt.visitgate.com/948/166/46.jpg",
     title: "Arabella Rose - Is This What We Talked About, Daddy?....PY",
     linkURL: "https://www.eporner.com/video-HpWgKE0VJHk/arabella-rose-is-this-what-we-talked-about-daddy-py/"
   },
   {
-    imageURL: "https://www.tabooporn.tv/contents/videos_screenshots/13000/13041/preview.jpg",
+    imageURL: "https://c2.ttcache.com/thumbnail/VId3gLiRuoP/288x162/3_240.jpg",
     title: "Arabella Rose - Secret At The Beach",
     linkURL: "https://sxyprn.com/post/6549476ff2a32.html?sk=Arabella-Rose&so=0&ss=orgasmic"
   },
