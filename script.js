@@ -497,7 +497,7 @@ let links = [
     linkURL: "https://www.eporner.com/video-96Wj8f1P7gw/danni-rivers-pov-sex/"
   },
   {
-    imageURL: "https://cdn.theyarehuge.com/contents/videos_screenshots/190000/190255/preview.jpg",
+    imageURL: "https://www.vipporns.com/contents/videos_screenshots/37000/37887/preview.jpg",
     title: "Eva Elfie I Let My Step-Bro Creampie My Pussy",
     linkURL: "https://sxyprn.com/post/678d0cc885aed.html?sk=Eva-Elfie&so=0&ss=latest"
   },
