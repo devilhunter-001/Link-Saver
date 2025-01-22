@@ -474,7 +474,7 @@ let links = [
   {
       imageURL: "https://i.xgroovy.com/contents/videos_screenshots/236000/236577/preview.jpg",
       title: "Post-workout Sweaty Booty of Teen Leah Gotti",
-      linkURL: "https://www.eporner.com/video-BzOeArIzEQe/leahs-workout/"
+      linkURL: "https://www.eporner.com/video-Od2OnRnqqw9/leah-gotti-gets-her-teen-pussy-worked-out/"
   },
   {
     imageURL: "https://imggen.eporner.com/5271707/1280/720/7.jpg",
