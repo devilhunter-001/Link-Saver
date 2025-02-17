@@ -37,7 +37,7 @@ let links = [
     linkURL: "https://sxyprn.com/post/608c480270eb3.html?sk=Blake-Blossom&so=0&ss=views"
   },
   {
-    imageURL: "https://img.tnaflix.com/a16:8q80w500r/196/10/94/10943205/thumbs/5.jpg",
+    imageURL: "https://caps1cdn.adultempire.com/q/7499/3840/2627499_00360_3840.jpg",
     title: "Petite teen Melody Marks loves to sleep with her stepbrother. She holds his cocks and sleeps better!",
     linkURL: "https://www.eporner.com/video-8L4YjhaiyXb/01371/"
   },
@@ -117,12 +117,12 @@ let links = [
     linkURL: "https://www.hotmovies.com/3364151/mommys-boys-porn-video.html" 
 }, 
 {
-  imageURL: "https://imggen.eporner.com/10701777/3840/2160/1.jpg",
+  imageURL: "https://pornox.hu/contents/videos_sources/18000/18145/screenshots/3.jpg",
   title: "Leah Gotti First Time Sex On Camera 4K ",
   linkURL: "https://www.eporner.com/video-T35sDDVfcky/leah-gotti-first-time-sex-on-camera-4k-uhd-2160p/"
 },
   {
-    imageURL: "https://imggen.eporner.com/12452846/1920/1080/6.jpg",
+    imageURL: "https://i.xcafe.com/videos_screenshots/118000/118838/preview_n.mp4.jpg",
     title: "Gabbie Carter - My Little Step-sister Came Home From School......TR",
     linkURL: "https://www.eporner.com/video-9RZgd5uTXBb/gabbie-carter-my-little-step-sister-came-home-from-school-tr/"
   },
@@ -222,7 +222,7 @@ let links = [
     linkURL: "https://www.eporner.com/video-be4iacsnl3n/g-carter-facial-treatments/"
   },
   {
-    imageURL: "https://imggen.eporner.com/12374088/1280/720/2.jpg",
+    imageURL: "https://ok.porn/contents/videos_screenshots/323000/323875/960x540/3.jpg",
     title: "Gabbie Carter Runaway",
     linkURL: "https://www.eporner.com/video-B3KagppFJM6/gabbie-carter-runaway/"
   },
@@ -272,7 +272,7 @@ let links = [
     linkURL: "https://www.eporner.com/video-BvCFbnreDV4/leah-s-hottest-shower/"
 },
   {
-    imageURL: "https://cdn-img2.16honeys.com/videos/201912/17/269365391/original/(m=q65PY-UbeaAaGwObaaaa)(mh=VUl7kgGxGUjihO75)0.jpg",
+    imageURL: "https://ei.phncdn.com/videos/201912/17/269365391/original/(m=q65PY-UbeaSaaTbaAaaaa)(mh=C-rKXWsqvqMJXp48)0.jpg",
     title: "New Sensations - Gabbie Carter \"Daddy My Pussy is So Much Tighter Than Mom's\" To enable screen reader",
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=ph5df913d789e7a"
   },
@@ -387,7 +387,7 @@ let links = [
     linkURL: "https://www.eporner.com/video-XWhgizbbkYY/gorgeous-blonde-serves-hot-sex-for-breakfast/"
   },
   {
-    imageURL: "https://imggen.eporner.com/12568001/3840/2160/2.jpg",
+    imageURL: "https://fuzzarts.com/wp-content/uploads/2020/11/055.jpeg",
     title: "Naughty Lesson - Sybil A, Charlie Dean",
     linkURL: "https://www.eporner.com/video-ZmkxsrEZVmH/naughty-lesson-sybil-a-charlie-dean/"
   },
@@ -472,7 +472,7 @@ let links = [
     linkURL: "https://www.eporner.com/video-xMV4p7iigwA/alyx-star-my-sister-s-huge-juicy-wet-tits/"
   },
   {
-      imageURL: "https://i.xgroovy.com/contents/videos_screenshots/236000/236577/preview.jpg",
+      imageURL: "https://tn.upornia.com/contents/videos_screenshots/3646000/3646977/preview.jpg",
       title: "Post-workout Sweaty Booty of Teen Leah Gotti",
       linkURL: "https://www.eporner.com/video-Od2OnRnqqw9/leah-gotti-gets-her-teen-pussy-worked-out/"
   },
@@ -487,7 +487,7 @@ let links = [
     linkURL: "https://www.eporner.com/video-POfFVRLvPdv/melody-marks-gets-her-tight-pink-pussy-slammed/"
   },
   {
-    imageURL: "https://imggen.eporner.com/12416989/1920/1080/2.jpg",
+    imageURL: "https://st.4kporn.xxx/contents/videos_screenshots/1148000/1148011/preview_720p.mp4.jpg",
     title: "Just A Class Topper's Daily Routine - Blaire Ivory",
     linkURL: "https://www.eporner.com/video-tV3AVGg8LjC/just-a-class-topper-s-daily-routine/"
   },
@@ -522,7 +522,7 @@ let links = [
     linkURL: "https://hqporner.com/hdporn/104118-yes_dad_im_doing_my_chores.html" 
 }, 
 { 
-    imageURL: "https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/50/bf/1a/50bf1a742754f6b915f5fb9dbae69dc3/50bf1a742754f6b915f5fb9dbae69dc3.30.jpg", 
+    imageURL: "https://st.gigporno.com/img/2021/0/20210625xl.jpg", 
     title: "Natasha Nice Busty Full Time Tutor Hit The Jackpot With Trust Fund Student", 
     linkURL: "https://hqporner.com/hdporn/100060-full_time_tutoring.html" 
 }, 
@@ -632,7 +632,7 @@ let links = [
     linkURL: "https://www.eporner.com/video-nbLhaU0Vp0p/alyx-star/"
   },
   {
-    imageURL: "https://www.nubileporn.net/contents/videos_screenshots/9000/9776/preview.jpg",
+    imageURL: "https://images.nubiles-porn.com/videos/july_2022_flavor_of_the_month_alyx_star/screenshots/10.jpg",
     title: "Alyx Star - Starlet With Son To Become Pregnant",
     linkURL: "https://www.eporner.com/video-ZNFyAizJrq1/alyx-star-starlet-with-son-to-become-pregnant/"
   },
@@ -667,7 +667,7 @@ let links = [
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=675e3cf29bae3"
   },
   {
-    imageURL: "https://tn.hdzog.com/contents/videos_screenshots/1972000/1972857/preview.jpg",
+    imageURL: "https://content.brazz-girls.com/3722249-Looking_To_Let_Loose/videoS.webp",
     title: "Gabbie Carter - Looking To Let Loose November",
     linkURL: "https://hqporner.com/hdporn/94895-looking_to_let_loose.html"
   },
@@ -677,7 +677,7 @@ let links = [
     linkURL: "https://www.eporner.com/video-egTbebiV7xx/milf-s-midnight-desire/"
   },
   {
-    imageURL: "https://imggen.eporner.com/11406655/1280/720/12.jpg",
+    imageURL: "https://static-ca-cdn.eporner.com/thumbs/static4/1/11/118/11890294/7_360.jpg",
     title: "Alison Tyler- Stepmom Hot Porn Story With Alison Tyler",
     linkURL: "https://www.eporner.com/video-hqq7jHRaura/alison-tyler-stepmom-hot-porn-story-with-alison-tyler/"
   },
@@ -692,7 +692,7 @@ let links = [
     linkURL: "https://sxyprn.com/post/6549476ff2a32.html?sk=Arabella-Rose&so=0&ss=orgasmic"
   },
   { 
-    imageURL: "https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/1a/63/e0/1a63e0408c1a89283cdb0a35c06966eb/1a63e0408c1a89283cdb0a35c06966eb.1.jpg", 
+    imageURL: "https://s4.titfap.com/albums/65281/output_007.jpg", 
     title: "It Was Just Fast Sex with My Stepmom, Natasha Nice", 
     linkURL: "https://hqporner.com/hdporn/107951-we_both_need_to_get_laid_mom.html" 
 }, 
