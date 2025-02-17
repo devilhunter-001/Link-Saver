@@ -317,8 +317,8 @@ let links = [
     linkURL: "https://www.eporner.com/video-cVgUCRG774f/leah-anal-sis/"
 },
 {
-    imageURL: "https://caps1cdn.adultempire.com/r/8611/1280/1788611_00300_1280c.jpg",
-    title: "https://caps1cdn.adultempire.com/r/8611/1280/1788611_00300_1280c.jpg",
+    imageURL: "https://caps1cdn.adultempire.com/r/8611/1280/1788611_00730_1280c.jpg",
+    title: "Leah Gotti - Nerdy Leah Gets Her Tight Pussy Stuffed",
     linkURL: "https://www.eporner.com/video-sTzKdGicCKB/nerdy-leah/"
 },
   {
@@ -385,11 +385,6 @@ let links = [
     imageURL: "https://imggen.eporner.com/9224265/1920/1080/7.jpg",
     title: "Gorgeous Blonde Serves Hot Sex For Breakfast - Melody Marks",
     linkURL: "https://www.eporner.com/video-XWhgizbbkYY/gorgeous-blonde-serves-hot-sex-for-breakfast/"
-  },
-  {
-    imageURL: "https://fuzzarts.com/wp-content/uploads/2020/11/055.jpeg",
-    title: "Naughty Lesson - Sybil A, Charlie Dean",
-    linkURL: "https://www.eporner.com/video-ZmkxsrEZVmH/naughty-lesson-sybil-a-charlie-dean/"
   },
   {
     imageURL: "https://b2.trafficdeposit.com/blog/1/15/img/245161709597717/60b2360189e08/poster.jpg",
