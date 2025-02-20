@@ -332,7 +332,7 @@ let links = [
     linkURL: "https://sxyprn.com/post/6037afa3e5e5e.html?sk=Kylie-Quin&so=29&ss=latest"
 },
 {
-    imageURL: "https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/4a/af/e6/4aafe6c3a17b064912c0eea7e9df35b0/4aafe6c3a17b064912c0eea7e9df35b0.30.jpg",
+    imageURL: "https://images.brattysis.com/assets/common/images/tubeTourThumbs/864/194/864194/fullSizeCropped_864194.jpg?cacheBust=4e631637",
     title: "Banging Stepbro During Class Megan Marx, Victor Ray",
     linkURL: "https://sxyprn.com/post/65d859cec36ca.html?sk=Megan-Marx&so=30&ss=latest"
 },
