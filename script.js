@@ -222,7 +222,7 @@ let links = [
     linkURL: "https://de.pornhub.com/view_video.php?viewkey=ph63c11c4a89d2d"
 },
 {
-  imageURL: "https://anyporn.com/contents/videos_screenshots/941000/941716/preview.jpg",
+  imageURL: "https://rusoska.com/contents/videos_screenshots/150000/150851/preview.mp4.jpg",
   title: "Pale cutie Bunny Colby gets massaged and fucked by a lucky man",
   linkURL: "https://noodlemagazine.com/watch/-191377552_456240950"
 },
@@ -908,7 +908,7 @@ let links = [
     linkURL: "https://sxyprn.com/post/676a48d30dea8.html?sk=I-Accidentally-Sent-My-Stepsis-A-Dick-Pic-Sybil-A&so=0&ss=latest"
   },
   {
-    imageURL: "https://ei.phncdn.com/videos/202208/14/413623161/original/(m=qGK-0VXbeaSaaTbaAaaaa)(mh=6wi8_bleKL4M0f3Z)0.jpg",
+    imageURL: "https://cdn-img2.iporntv.net/videos/202208/14/413623161/original/(m=qGK-0VXbeaAaGwObaaaa)(mh=HPP-nmBVb8HRrUem)0.jpg",
     title: "Gorgeous Sybil Gets Creampied While Riding Her Real Estate Agent For A Big Discount",
     linkURL: "https://sxyprn.com/post/64f5bbacabd5f.html?sk=Sybil&so=60&ss=latest"
   },
@@ -1063,12 +1063,12 @@ let links = [
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=ph5eab25fcae7a2"
   },
   {
-    imageURL: "https://ei.phncdn.com/videos/201911/08/260269232/original/(m=qJ5OZ8UbeaSaaTbaAaaaa)(mh=dudaawz0-CoYZRlE)0.jpg",
+    imageURL: "https://thepornjoy.org/contents/videos_screenshots/166000/166603/preview_720p.mp4.jpg",
     title: "Big Tits Shared Wife Gabbie Carter Fucks a Stranger While Husband Travels",
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=ph5dc5b0790bf7e"
   },
   {
-    imageURL: "https://ei.phncdn.com/videos/202007/29/337495211/original/(m=q6NKMYVbeaSaaTbaAaaaa)(mh=NuhqYEIymH67G41m)0.jpg",
+    imageURL: "https://watchmygf.me/contents/videos_screenshots/403000/403491/preview.mp4.jpg",
     title: "FamilyXXX - Horny Tiny Stepsis Ellie Eilish Finally Gets Her Step-Brother's Big Hard Cock",
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=ph5f21b686b6df6"
 },
@@ -1103,7 +1103,7 @@ let links = [
     linkURL: "https://sxyprn.com/post/5e70e4b5a2a50.html?sk=DanniRivers&so=0&ss=latest"
   },
   {
-    imageURL: "https://cdn.camwhores.tv/contents/videos_screenshots/12219000/12219831/preview.jpg",
+    imageURL: "https://sexuria.net/uploads/posts/2023-06/1687841266_sexuria.net_arabella_rose_-_show_me_yours_full_hd_pt.jpg",
     title: "Arabella Rose - Show Me Yours",
     linkURL: "https://sxyprn.com/post/649a9087d1b01.html?sk=Arabella-Rose&so=0&ss=orgasmic"
   },
@@ -1138,7 +1138,7 @@ let links = [
     linkURL: "https://sxyprn.com/post/5e15cbd320169.html?sk=Ellie-Eilish&so=0&ss=latest"
 },
 {
-    imageURL: "https://st.pstictic.com/contents/videos_screenshots/276000/276274/720x406/1.jpg",
+    imageURL: "https://i.ytimg.com/vi/cQXJKKZpxkY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBCCFtHpyKtK6xsohGgmwTRjkvVmg",
     title: "FAMILY XXX - Teen Prefers Older Step Daddy Big Cock (Ellie Eilish)",
     linkURL: "https://www.pornhub.org/view_video.php?viewkey=6446afcb0ba8e"
 },
@@ -1183,7 +1183,7 @@ let links = [
     linkURL: "https://sxyprn.com/post/678d0cc885aed.html?sk=Eva-Elfie&so=0&ss=latest"
   },
   {
-    imageURL: "https://ei.phncdn.com/videos/202205/02/407381731/original/(m=qHNQGNXbeaSaaTbaAaaaa)(mh=290AVdEm_ZisooFm)0.jpg",
+    imageURL: "https://img.itsthumb.com/contents/videos_sources/301000/301479/screenshots/3.jpg",
     title: "New Sensations - Big Tits Teen Cheerleader Alyx Star Fucks Big Dick Principal",
     linkURL: "https://www.eporner.com/video-nbLhaU0Vp0p/alyx-star/"
   },
@@ -1258,7 +1258,7 @@ let links = [
     linkURL: "https://hqporner.com/hdporn/106947-pop_cock_quiz.html" 
 }, 
 { 
-    imageURL: "https://ei.phncdn.com/videos/202305/01/430662741/original/(m=q3QRGLYbeaSaaTbaAaaaa)(mh=M0C38Hr6FB9_U5V4)0.jpg", 
+    imageURL: "https://www.xnxcdn.com/contents/videos_screenshots/1724000/1724248/preview.jpg", 
     title: "MOMMY'S BOY - Busty MILF Natasha Nice Takes Her Cute Stepson's Anal Virginity!", 
     linkURL: "https://hqporner.com/hdporn/106220-mommys_boy_wants_a_back_entrance---.html" 
 }, 
@@ -1278,7 +1278,7 @@ let links = [
     linkURL: "https://hqporner.com/hdporn/95608-one_of_her_biggest_crushes.html"
   },
   {
-    imageURL: "https://ei.phncdn.com/videos/201907/03/233029061/thumbs_35/(m=eaSaaTbaAaaaa)(mh=Nxed3gcsfOKRWl1z)8.jpg",
+    imageURL: "https://cdn77-pic.xvideos-cdn.com/videos/thumbs169lll/98/67/d8/9867d8c60cca11778dc7c0b48abeb8bb/9867d8c60cca11778dc7c0b48abeb8bb.30.jpg",
     title: "TUSHY Gabbie Carter's Desire To Be Gaped Comes True",
     linkURL: "https://hqporner.com/hdporn/92221-young_hunter_for_experienced_guys.html"
   },
